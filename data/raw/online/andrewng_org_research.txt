@@ -1,0 +1,69 @@
+Research | Andrew Ng
+Andrew Ng
+About
+Writing
+AI Fund
+Research
+Courses
+AI Andrew
+Contact
+About
+Writing
+AI Fund
+Research
+Courses
+AI Andrew
+Contact
+Research
+Andrew Ng has authored or co-authored over 200 research papers in machine learning, robotics, computer vision, and natural language processing. His work spans foundational contributions to deep learning, reinforcement learning, and data-centric AI — from the Stanford AI Lab and the Google Brain project to applied research at Baidu and beyond.
+Recent Publications
+2026
+MEthane Tracking Emissions Reference (METER): A global database of methane-emitting infrastructure
+RB Jackson, JA Irvin, N Ramachandran, C Wang, Z Ouyang, PA Tulloch et al.
+· Earth System Science Data Discussions 2026, 1-54
+2025
+Spatiotemporal Pyramid Flow Matching for Climate Emulation
+JA Irvin, J Han, Z Wang, A Alharbi, Y Zhao, NE Bayarsaikhan, D Visioni et al.
+· arXiv
+2025
+Data centric mislabel detection
+YQ Zhou, D Laird, Y Zhang, AYT Ng, D Bibireata, K Yang, S Jagadeesan et al.
+· US Patent
+2025
+STARC-9: A Large-scale Dataset for Multi-Class Tissue Classification for CRC Histopathology
+B Subramanian, R Jeyaraj, MN Peterson, T Guo, N Shah, C Langlotz et al.
+· The Thirty-ninth Annual Conference on Neural Information Processing Systems …
+2025
+Regional mapping of natural gas compressor stations in the United States and Canada using deep learning on satellite imagery
+B Liu, J Irvin, M Omara, C Wang, G Kornberg, H Sheng, R Gautam, AY Ng et al.
+· Journal of Environmental Management 393, 126728
+2025
+Guided workflow for deep learning error analysis
+MW Sabini, K Yang, AYT Ng, D Bibireata, D Laird, W Blodgett, Y Liu et al.
+· US Patent App. 19/219,822
+2025
+Model Management System for Improving Training Data Through Machine Learning Deployment
+D Bibireata, AYT Ng, P He, Z Qiu, C Iral, M Zhang, A Leal, J Guan et al.
+· US Patent App. 19/218,054
+2025
+MedAgentBench: a virtual EHR environment to benchmark medical LLM agents
+Y Jiang, KC Black, G Geng, D Park, J Zou, AY Ng, JH Chen
+· Nejm Ai 2 (9), AIdbp2500144
+2025
+Uq: Assessing language models on unsolved questions
+F Nie, KZ Liu, Z Wang, R Sun, W Liu, W Shi, H Yao, L Zhang, AY Ng et al.
+· arXiv
+View all on Google Scholar
+Andrew Ng
+About
+Writing
+AI Fund
+Research
+Courses
+AI Andrew
+Contact
+Twitter
+LinkedIn
+©
+2026
+Andrew Ng

@@ -1,0 +1,5 @@
+Online source could not be fetched during ingestion.
+Title: The Near Future of AI Talk Transcript
+URL: https://ecorner.stanford.edu/wp-content/uploads/sites/2/2023/10/the-near-future-of-ai-entire-talk-transcript.pdf
+Error: 403 Client Error: Forbidden for url: https://ecorner.stanford.edu/wp-content/uploads/sites/2/2023/10/the-near-future-of-ai-entire-talk-transcript.pdf
+Keep this source in the registry and retry later, or download it manually.

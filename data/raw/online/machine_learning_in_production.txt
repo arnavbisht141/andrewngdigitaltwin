@@ -1,0 +1,195 @@
+Machine Learning in Production - DeepLearning.AI
+✨ New Course! Enroll in
+AI Agents for Image and Video Generation
+Explore Courses
+AI Newsletter
+The Batch
+Andrew's Letter
+Data Points
+ML Research
+Blog
+Community
+Forum
+Events
+Ambassadors
+Ambassador Spotlight
+Resources
+Membership
+Start Learning
+Explore Courses
+AI Newsletter
+The Batch
+Andrew's Letter
+Data Points
+ML Research
+Blog
+Community
+Forum
+Events
+Ambassadors
+Ambassador Spotlight
+Resources
+Membership
+Start Learning
+Overview
+Course Outline
+Instructors
+All Courses
+Course
+Machine Learning in Production
+All Courses
+Course
+Machine Learning in Production
+Course
+Intermediate
+10h59m
+Machine Learning in Production
+Instructor
+:
+Andrew Ng
+DeepLearning.AI
+Earn
+a certificate
+with
+PRO
+Enroll Now
+Also available on
+Coursera
+Intermediate
+10h59m
+41 Video Lessons
+4 Code Examples
+5 Graded Assignments
+PRO
+Earn
+a certificate
+with
+PRO
+Instructor: Andrew Ng
+DeepLearning.AI
+Learn more about
+Membership PRO Plan
+Start Learning
+Also available on
+Coursera
+What you'll learn
+Design an ML production system end-to-end: project scoping, data needs, modeling strategies, and deployment requirements.
+Establish a model baseline, address concept drift, and prototype how to develop, deploy, and continuously improve a productionized ML application.
+Skills you will gain
+Data Pipelines
+Model Pipelines
+Deployment Pipelines
+Managing Machine Learning Production systems
+ML Deployment Challenges
+Project Scoping and Design
+Concept Drift
+Model Baseline
+Human-level Performance (HLP)
+Data transformation
+Data augmentation
+Data validation
+Model Performance Analysis
+Model Monitoring
+MLOps
+Machine Learning Engineering for Production
+Machine learning engineering for production refers to the tools, techniques, and practical experiences that transform theoretical ML knowledge into a production-ready skillset.
+The Machine Learning in Production course covers how to conceptualize integrated systems that continuously operate in production as well as solve common challenges unique to the production environment. In striking contrast with standard machine learning modeling, production systems need to handle relentlessly evolving data. Moreover, the production system must run non-stop at the minimum cost while producing the maximum performance.
+In this Machine Learning in Production course, you will build intuition about designing a production ML system end-to-end: project scoping, data needs, modeling strategies, and deployment patterns and technologies. You will learn strategies for addressing common challenges in production like establishing a model baseline, addressing concept drift, and performing error analysis. You’ll follow a framework for developing, deploying, and continuously improving a productionized ML application.
+Understanding machine learning and deep learning concepts is essential, but if you’re looking to build an effective AI career, you need experience preparing your projects for deployment as well. Machine learning engineering for production combines the foundational concepts of machine learning with the skills and best practices of modern software development necessary to successfully deploy and maintain ML systems in real-world environments.
+By the end of this program, you will be ready to:
+Design an ML production system end-to-end: project scoping, data needs, modeling strategies, and deployment requirements.
+Establish a model baseline, address concept drift, and prototype how to develop, deploy, and continuously improve a productionized ML application.
+Course Outline
+Machine Learning in Production
+Week 1: Overview of the ML Lifecycle and Deployment
+The Machine Learning Project Lifecycle
+Deployment
+Lecture Notes (Optional)
+Ungraded Lab
+Week 2: Modeling Challenges and Strategies
+Select and train a model
+Error analysis and performance auditing
+Data iteration
+Graded assessment
+Lecture Notes (Optional)
+Ungraded Lab
+Week 3: Data Definition and Baseline
+Define Data and Establish Baseline
+Label and Organize Data
+Scoping (optional)
+Lecture Notes (Optional)
+Ungraded Lab
+Final Project
+Course Resources
+Acknowledgements
+Elevate your learning experience with Pro
+Upgrade to Pro and gain unlimited accomplishments on your resume
+Learn More
+Instructor
+Andrew Ng
+Founder, DeepLearning.AI; Co-founder, Coursera
+Frequently Asked Questions
+What is machine learning engineering for production? Why is it relevant?
+Machine learning engineering for production refers to the tools, techniques, and practical experiences that transform theoretical ML knowledge into a production-ready skillset.
+Effectively deploying machine learning models requires competencies more commonly found in technical fields such as software engineering and DevOps. Machine learning engineering for production combines the foundational concepts of machine learning with the functional expertise of modern software development and engineering roles.
+Understanding machine learning and deep learning concepts is essential, but if you’re looking to build an effective AI career, you need production engineering capabilities as well. With machine learning engineering for production, you can turn your knowledge of machine learning into production-ready skills.
+What is the Machine Learning in Production Course about?
+The Machine Learning in Production course covers how to conceptualize integrated systems that continuously operate in production as well as solve common challenges unique to the production environment. In striking contrast with standard machine learning modeling, production systems need to handle relentlessly evolving data. Moreover, the production system must run non-stop at the minimum cost while producing the maximum performance.
+In this Machine Learning in Production course, you will build intuition about designing a production ML system end-to-end: project scoping, data needs, modeling strategies, and deployment patterns and technologies. You will learn strategies for addressing common challenges in production like establishing a model baseline, addressing concept drift, and performing error analysis. You’ll follow a framework for developing, deploying, and continuously improving a productionized ML application.
+What will I be able to do after completing the Machine Learning in Production Course?
+By the end, you will be ready to:
+Design an ML production system end-to-end: project scoping, data needs, modeling strategies, and deployment requirements.
+Establish a model baseline, address concept drift, and prototype how to develop, deploy, and continuously improve a productionized ML application.
+What background knowledge is necessary for the Machine Learning in Production Course?
+Learners should have a working knowledge of AI and deep learning.
+Learners should have intermediate Python skills and experience with any deep learning framework (TensorFlow, Keras, or PyTorch).
+We highly recommend that you complete the updated
+Deep Learning Specialization
+before starting this course.
+Who is the Machine Learning in Production Course for?
+The Machine Learning in Production Course is for early-career machine learning practitioners or software engineers looking to gain practical knowledge of how to formulate a reproducible, traceable, and verifiable machine learning project for production.
+How long does it take to complete the Machine Learning in Production Course?
+At the rate of 5 hours a week, it typically takes 3 weeks to complete this course.
+At the rate of 5 hours a week, it typically takes 3 weeks to complete this course.
+Who is the Machine Learning in Production Course by?
+The Machine Learning Engineering for Production course has been created by
+Andrew Ng
+Andrew Ng is Founder of DeepLearning.AI, General Partner at AI Fund, Chairman and Co-Founder of Coursera, and an Adjunct Professor at Stanford University. As a pioneer in machine learning and online education, Dr. Ng has changed countless lives through his work in AI, authoring or co-authoring over 100 research papers in machine learning, robotics, and related fields. Previously, he was chief scientist at Baidu, the founding lead of the Google Brain team, and the co-founder of Coursera – the world’s largest MOOC platform.
+Is this a standalone course or a Specialization?
+This is a standalone course.
+The course is a standalone course.
+Will I receive a certificate at the end of the course?
+Yes. You will receive a certificate at the end of the course if you are subscribed to the DeepLearning.AI Pro subscription, or a Coursera subscription and complete the assignments.
+Machine Learning in Production
+Intermediate
+10h59m
+41 Video Lessons
+4 Code Examples
+5 Graded Assignments
+PRO
+Earn
+a certificate
+with
+PRO
+Instructor: Andrew Ng
+DeepLearning.AI
+Learn more about
+Membership PRO Plan
+Start Learning
+Also available on
+Coursera
+Sign Up
+Be notified of new courses
+Start Learning
+Also available on
+Coursera
+Courses
+The Batch
+Community
+Careers
+About
+Contact
+Help
+Terms of Use
+│
+Privacy Policy

@@ -1,0 +1,723 @@
+Curriculum Vitæ—Andrew Y. Ng
+Associate Professor
+Stanford University
+Computer Science Department
+Room 156, Gates Building 1A
+Stanford, CA 94305-9010
+Phone: (650)725-2593
+Email: ang@cs.stanford.edu
+Web: http://www.cs.stanford.edu/~ang/
+Research interests
+• Broad competence Artiﬁcial Intelligence.
+• Foundations of Machine Learning.
+• Learning for perception and natural language processing.
+Education
+Carnegie Mellon University. 1997.
+B.Sc. in Mathematics/Computer Science. (Graduated at top of class.)
+B.Sc. in Statistics, with an additional major in Economics.
+(Both degrees with Honors.)
+Massachusetts Institute of Technology, Artiﬁcial Intelligence Laboratory.
+M.Sc. in Electrical Engineering and Computer Science, 1998.
+Thesis title: On feature selection: Learning with exponentially many irrelevant features as
+training examples.
+University of California, Berkeley.
+Ph.D. in Computer Science, 2003.
+Thesis title: Shaping and policy search in reinforcement learning.
+Awards and Honors
+IJCAI Computers and Thought award (highest award in AI given to a researcher under
+35): 2009; ICML Best Paper Award: Best application paper: 2009; Vance D. & Arlene C.
+Coﬀman Faculty Scholar Award: 2009; TR35 (Technology Review, 35 innovators under 35):
+2008; ICML Best Paper Award: Best application paper: 2008; Alfred P. Sloan Research
+Fellow: 2007; 3dRR Best Paper Award: 2007; ACL Best Paper Award: 2006; CEAS Best
+1
+Student Paper Award: 2005; Microsoft Research Fellowship: 2001-2002; Berkeley Fellow-
+ship: 1998-2000; Phi Kappa Phi Honors Society: 1997; Student Leadership Award: 1997;
+Microsoft Technical Award: 1996; Andrew Carnegie Society Scholarship: 1996; Pi Mu Ep-
+silon Honors Society: 1996; Microsoft Technical Scholarship Award: 1995; Phi Beta Kappa
+Honors Society: 1995; Bell Atlantic Network Services Scholarship: 1995; Omicron Delta
+Upsilon Honors Society: 1995.
+Positions held
+Stanford University. 2002-present.
+Associate Professor (2009-present). Assistant Professor (2002-2009). Computer Science De-
+partment and (by courtesy) Department of Electrical Engineering. Major projects include:
+The STAIR (STanford Artiﬁcial Intelligence Robot) project (http://stair.stanford.edu).
+Aerobatic helicopter ﬂight via apprenticeship learning (http://heli.stanford.edu), and more
+generally machine learning for robotic control. Building 3d models from a single still image
+(http://make3d.stanford.edu). The “Stanford WordNet” project (machine learning to au-
+tomatically enlarge WordNet). Eﬃcient L1 methods, self-taught learning and unsupervised
+feature learning.
+University of California, Berkeley, 1998-2002.
+Graduate student/Research Assistant. Research on machine learning algorithms for control
+and for text and web data processing.
+AT&T Labs – Research, Summer 1996-Spring 1998, Summer 1999, Summer 2000.
+Research on reinforcement learning, model selection, and feature selection.
+Massachusetts Institute of Technology, Fall 1997-Fall 1998.
+Research Assistant. Built the ﬁrst publically available, automatically-indexed web-search
+engine for research papers on the web (precursor to CiteSeer/ResearchIndex, but specializing
+in machine learning).
+Students
+Current Ph.D. students:
+• Adam Coates
+Expected graduation: 2011
+• Quoc Le
+Expected graduation: 2012
+• Andrew Maas
+Expected graduation: 2013
+• Jiquan Ngiam
+Expected graduation: 2013
+2
+• Morgan Quigley
+Expected graduation: 2012
+Former Ph.D. students:
+• Pieter Abbeel (Assistant Professor, UC Berkeley)
+Thesis: Apprenticeship Learning and Reinforcement Learning with Application to
+Robotic Control
+Graduated: August 2008
+• Chuong Do (Tom) (Scientist, 23andme)
+Thesis: Discriminative probabilistic models for biological sequence analysis
+Graduated: June 2009
+• Ashutosh Saxena (Assistant Professor, Cornell University)
+Thesis: Robotic Grasping and Depth Perception: Learning 3D Models from a Single
+Image
+Graduated: August 2009
+• Rajat Raina (Research Sciencetist, Facebook)
+Thesis: Self-taught learning: Algorithms and applications
+Graduated: August 2009
+• Rion Snow (Member of Technical Staﬀ, Twitter)
+Thesis: Semantic Taxonomy Induction: Theory and Applications
+Graduated: June 2009
+• J. Zico Kolter (Post doc, MIT)
+Thesis: Learning and Control with Inaccurate Models
+Graduated: August 2010
+• Honglak Lee (Assistant Professor, University of Michigan, Ann Arbor)
+Thesis: Unsupervised Feature Learning via Sparse Hierarchical Representations
+Graduated: August 2010
+Current and former M.Sc. students:
+• Deepak Rao
+• Bipin Suresh
+• Tao Wang
+• Will Zou
+• Siddarth Batra (graduated June 2010)
+• Ethan Dreyfus (June 2010)
+• Ian Goodfellow (June 2010)
+• Anand Madhavan (June 2010)
+• Rajesh Ranganath (June 2010)
+• Charles DuHadway (June 2009)
+3
+• Paul Baumstarck (Mar 2010)
+• Hee-Tae Jung (June 2009)
+• Tim Hunter (June 2009)
+• Brian Sa (June 2009)
+• Samuel Schreiber (June 2009)
+• Jeﬀrey Spehar (June 2009)
+• Lawson Wong (June 2009)
+• Sara Bolouki (June 2008)
+• Ekanadham Chaitanya (June 2008)
+• Quan Gan (June 2008)
+• Roger Grosse (June 2008)
+• Jeremy Hoﬀman (June 2008)
+• Helen Kwong (June 2008)
+• Siddharth Jonathan (June 2007)
+• Paul Reynolds (June 2007)
+• Benjamin Sapp (June 2007)
+• Sushant Prakash (June 2007)
+• Min Sun (June 2007)
+• Justin Driemeyer (Mar 2007)
+• Mike Brzozowski (Sep 2006)
+• Kendra Carattini (June 2006)
+• Cheng-Tao Chu (June 2006)
+• Sung Chung (June 2006)
+• Justin Kearns (June 2006)
+• Marius Messner (June 2006)
+• Kurt Miller (June 2006)
+• Chioma Osondu (June 2006)
+• YuanYuan Yu (June 2006)
+• Erick Delage (June 2005)
+• Aria Haghighi (June 2005)
+• Jeﬀ Michels (June 2005)
+• Jason Chuang (June 2005)
+• Wenmiao Lu (June 2005)
+• Nisheeth Ranjan (June 2005)
+4
+• Gurjeet Singh (Mar 2005)
+• Chih-Han Yu (Mar 2005)
+• Eric Berger (June 2004)
+• Eric Liang (June 2004)
+• Khian Lim (June 2004)
+• David Mulford (June 2004)
+Invited Talks
+Distinguished lecture at UCSD Computer Science Department, 2012.
+Distinguished lecture at University of Toronto Computer Science Department, 2012.
+Invited talk at US FIRST Robotics competition, San Jose, 2012.
+Invited talk at International Joint Conference on Neural Networks (IJCNN), 2011.
+Invited talk at RulesFest conference, 2011.
+Invited talk at BAVM, 2011.
+Invited talk at Frontiers of Vision meeting, Cambridge MA, 2011.
+Invited talk at RSS workshop on mobile manipulation, 2011.
+STAN plenary talk, 2011.
+Keynote at the Conference on Empirical Methods on Natural Language Processing (EMNLP),
+Oct 2010 (to be held).
+Invited talk at Google Computer Vision Conference, 2010.
+Distinguished lecturer at “triangle” lecturer series (Duke, UNC, and NC), 2009
+IJCAI 2009 Computers & Thought talk, 2009.
+Invited speaker at the Multidisciplinary Symposium on Reinforcement Learning (MSRL),
+2009.
+Invited speaker at ICML workshop on Learning feature hierarchies, 2009.
+Invited speaker at University of Montreal, Machine Learning seminar, 2009.
+Invited speaker at CIFAR meeting on Neural Computation and Adaptive Perception, Toronto,
+2009.
+Invited speaker at AAAI Presidential Panel meeting on Long-Term AI Futures, Asilomar,
+2009.
+Invited speaker at Princeton University, CS Colloquium, 2009.
+Invited speaker at the Symposium on Autonomous Systems, Max Planck Society, Germany,
+2009.
+Invited speaker at University of British Columbia, CS Department, 2009.
+Invited speaker at Lockheed Martin/ATC Colloquium, 2009.
+Invited speaker at University of Pennsylvania, GRASP Seminar, Nov 2008.
+5
+Invited speaker at MIT, Robotics Seminar, Nov 2008.
+Invited speaker at the International Conference on Machine Learning (ICML), 2008.
+Keynote speaker at the International Conference on Development and Learning (ICDL),
+2008.
+Invited speaker at Cornell University, CS Colloquium, 2008.
+Invited speaker at University of Washington, CS Department, 2008.
+Invited speaker at University of Southern California, CS Department, 2008.
+Invited speaker at Microsoft Research, Seattle, 2008.
+Invited speaker at AAAI workshop on Mobility and Manipulation, 2008.
+Invited speaker at DSCR Terachip workshop, Santa Cruz, CA, 2008.
+Invited speaker at UC Berkeley Center for Intelligent Systems (CIS) Seminar, 2008.
+Invited speaker at CIFAR meeting on Statistics of Natural Scenes, UC Berkeley, 2008.
+Invited seminar at Boeing, Phantom Works, 2008.
+Invited speaker at Information Theory and Applications Workshop, UC San Diego, 2008.
+Invited speaker at Personal Robotics and Mobile Manipulation Workshop, Intel, 2008.
+Invited speaker at CRA Computing Community Consortium meeting, 2008.
+Invited speaker at NIPS workshop on “Robotics Challenges for Machine Learning,” 2007.
+Invited speaker at NIPS workshop on “Beyond Simple Cells: Probabilistic Models for Visual
+Cortical Processing,” 2007.
+Invited speaker at Future of AI in Robotics workshop, Japan, 2007.
+Invited speaker at International Symposium on Robotics Research (ISRR), 2007.
+Invited speaker at International Conference on Neural Information Processing (ICONIP),
+Japan, 2007.
+Keynote speaker at Robotics: Science and Systems Workshop on Robot Manipulation:
+Sensing and Adapting to the Real World, 2007
+Invited seminar at University of Michigan, Ann Arbor, Artiﬁcial Intelligence Seminar, 2007.
+Invited seminar at Carnegie Mellon University, Robotics Institute seminar, 2007.
+Invited seminar at UC Berkeley, Redwood Center for Neuroscience, 2007.
+Invited seminar at Georgia Tech, Robotics and Intelligence Machines (RIM) seminar, 2007.
+Invited speaker at NSF workshop on Future challenges for the science and engineering of
+learning, 2007
+Invited seminar at NASA Ames, 2007.
+Invited speaker at COSYNE (Computational and Systems Neuroscience) workshop on Motor
+control, 2007.
+Invited speaker at COSYNE (Computational and Systems Neuroscience) workshop on Func-
+tional requirements of a visual theory, 2007.
+Invited seminar at the Chinese University of Hong Kong (CUHK), 2007.
+Invited speaker at Neuroscience Enabled Computer Vision Workshop, Washington DC, 2007.
+6
+Invited speaker at the Algorithmic Learning Theory (ALT) conference and the Conference
+on Discovery Science (DS), Barcelona, 2006.
+Invited speaker at CIAR meeting on Neural Computation and Adaptive Perception, Canada,
+2006.
+Invited speaker at Manifolds and Visual Perception workshop, UC Berkeley, 2006.
+Invited seminar at KIST (Korea Institute of Science and Technology), 2006.
+Invited seminar at KITECH (Korea Institute of Industrial Technology), 2006.
+Invited speaker at Workshop on Biologically Inspired Scene Understanding, 2006.
+Invited talk at Google, 2006.
+Invited speaker at International Symposium on Robotics Research (ISRR) Conference, 2005.
+Invited speaker at Robotics: Science and Systems workshop on robot locomotion, 2005.
+Invited speaker at MSR/UW Summer Institute on Intelligent Systems (ISYS), 2005.
+Invited speaker at UC Berkeley Center for Intelligent Systems (CIS) seminar, 2005.
+Invited lecture at Seoul National University, Department of Mechanical and Aerospace En-
+gineering, 2005.
+Invited speaker at NIPS workshop on “Veriﬁcation, Validation and Testing of Learning
+Systems.” 2004
+GRASP seminar at University of Pennsylvania. 2004.
+Seminar at NASA Ames. 2003.
+Invited speaker at NIPS workshop on “Planning for the real-world.” 2003.
+Invited speaker at “Navigation, Locomotion and Articulation” workshop. 2003.
+Seminar at NASA Ames. 2002.
+Seminar at Stanford University, Department of Computer Science. 2001.
+Invited speaker at the Foundations of Statistical Inference conference, Jerusalem. 2000.
+Learning seminar at The Hebrew University, School of Computer Science and Engineering.
+2000.
+Seminar at Stanford University, Department of Computer Science. 1999.
+Publications
+Theses
+[1] Shaping and policy search in reinforcement learning . Andrew Y. Ng. Ph.D.
+Thesis. University of California, Berkeley, 2003.
+[2] On Feature Selection: Learning with exponentially many irrelevant features
+as training examples . Andrew Y. Ng. Masters Thesis. Massachusetts Institute of Tech-
+nology, Artiﬁcial Intelligence Laboratory, 1998.
+7
+Book Chapters
+[3] An Information-Theoretic Analysis of Hard and Soft Assignment Methods
+for Clustering . Michael Kearns, Yishay Mansour and Andrew Y. Ng. In M. I. Jordan,
+(Ed.), Learning in Graphical Models. MIT Press, 1997.
+Refereed Journal Articles
+[4] Autonomous Helicopter Aerobatics through Apprenticeship Learning , Pieter
+Abbeel, Adam Coates and Andrew Y. Ng. In International Journal of Robotics Research
+(IJRR), 2010.
+[5] Make3D: Learning 3-D Scene Structure from a Single Still Image , Ashutosh
+Saxena, Min Sun, and Andrew Y. Ng. In IEEE Transactions on Pattern Analysis and
+Machine Intelligence (PAMI), 2008.
+[6] Robotic Grasping of Novel Objects using Vision , Ashutosh Saxena, Justin
+Driemeyer, and Andrew Y. Ng. In International Journal of Robotics Research (IJRR) ,
+2007.
+[7] 3-D depth reconstruction from a single still image , Ashutosh Saxena, Sung H.
+Chung, and Andrew Y. Ng. In the International Journal of Computer Vision (IJCV) , 2007.
+[8] Learning factor graphs in polynomial time & sample complexity, Pieter Abbeel,
+Daphne Koller and Andrew Y. Ng. In Journal of Machine Learning Research, 7:1743-1788,
+2006.
+[9] Autonomous helicopter tracking and localization using a self-calibrating cam-
+era array, Masa Matsuoka, Surya Singh, Alan Chen, Adam Coates, Andrew Y. Ng and
+Sebastian Thrun. In International Journal of Robotics Research (IJRR) , 2006.
+[10] Latent Dirichlet Allocation . David Blei, Andrew Y. Ng and Michael I. Jordan.
+Journal of Machine Learning Research , 3:993-1022, 2003.
+[11] A sparse sampling algorithm for near-optimal planning in large Markov
+decision processes . Michael Kearns, Yishay Mansour and Andrew Y. Ng. Accepted to
+Machine Learning.
+[12] An experimental and theoretical comparison of model selection methods .
+Michael Kearns, Yishay Mansour, Andrew Y. Ng and Dana Ron. In Machine Learning
+27(1), pp. 7–50, 1997.
+8
+Refereed Conference Papers
+[13] Autonomous Operation of Novel Elevators for Robot Navigation. Ellen Kling-
+beil, Blake Carpenter, Olga Russakovsky and Andrew Y. Ng. In International Conference
+on Robotics and Automation (ICRA) , 2010.
+[14] Learning to grasp objects with multiple contact points. Quoc Le, David Kamm
+and Andrew Y. Ng. In International Conference on Robotics and Automation (ICRA), 2010.
+[15] Multi-Camera Object Detection for Robotics . Adam Coates and Andrew Y. Ng.
+In International Conference on Robotics and Automation (ICRA) , 2010.
+[16] A Probabilistic Approach to Mixed Open-loop and Closed-loop Control, with
+Application to Extreme Autonomous Driving . J. Zico Kolter, Christian Plagemann,
+David T. Jackson, Andrew Y. Ng and Sebastian Thrun. In International Conference on
+Robotics and Automation (ICRA) , 2010.
+[17] Grasping Novel Objects with Depth Segmentation . Deepak Rao, Quoc V. Le,
+Thanathorn Phoka, Morgan Quigley, Attawith Sudsand and Andrew Y. Ng. In Proceedings
+of the International Conference on Intelligent Robots and Systems (IROS) , 2010.
+[18] Low-cost Accelerometers for Robotic Manipulator Perception. Morgan Quigley,
+Reuben Brewer, Sai P. Soundararaj, Vijay Pradeep, Quoc V. Le and Andrew Y. Ng. In
+Proceedings of the International Conference on Intelligent Robots and Systems (IROS), 2010.
+[19] A Steiner tree approach to object detection . Olga Russakovsky and Andrew Y.
+Ng. In Computer Vision and Pattern Recognition (CVPR) , 2010.
+[20] Measuring invariances in deep networks. Ian J. Goodfellow, Quoc V. Le, Andrew
+M. Saxe, Honglak Lee and Andrew Y. Ng. In Advances in Neural Information Processing
+Systems 22 (NIPS) , 2009.
+[21] Unsupervised feature learning for audio classiﬁcation using convolutional
+deep belief networks . Honglak Lee, Yan Largman, Peter Pham and Andrew Y. Ng. In
+Advances in Neural Information Processing Systems 22 (NIPS) , 2009.
+[22] Convolutional Deep Belief Networks for Scalable Unsupervised Learning
+of Hierarchical Representations , Honglak Lee, Roger Grosse, Rajesh Ranganath and
+Andrew Y. Ng. In Proceedings of the Twenth-Sixth International Conference on Machine
+Learning, 2009. (Best paper award: Best application paper.)
+[23] Large-scale Deep Unsupervised Learning using Graphics Processors , Rajat
+Raina, Anand Madhavan and Andrew Y. Ng. In Proceedings of the Twenth-Sixth Interna-
+tional Conference on Machine Learning , 2009.
+9
+[24] A Majorization-Minimization Algorithm for (Multiple) Hyperparameter
+Learning, Chuan Sheng Foo, Chuong Do and Andrew Y. Ng. In Proceedings of the Twenth-
+Sixth International Conference on Machine Learning , 2009.
+[25] Regularization and Feature Selection in Least-Squares Temporal Diﬀerence
+Learning, J. Zico Kolter and Andrew Y. Ng. In Proceedings of the Twenth-Sixth Interna-
+tional Conference on Machine Learning , 2009.
+[26] Near-Bayesian Exploration in Polynomial Time , J. Zico Kolter and Andrew Y.
+Ng. In Proceedings of the Twenth-Sixth International Conference on Machine Learning ,
+2009.
+[27] Scalable Learning for Object Detection with GPU hardware , Adam Coates,
+Paul Baumstarck, Quoc Le, and Andrew Y. Ng. In Proceedings of the International Con-
+ference on Intellegent Robots and Systems (IROS) , 2009.
+[28] Joint calibration of multiple sensors , Quoc Le and Andrew Y. Ng. In Proceedings
+of the International Conference on Intellegent Robots and Systems (IROS) , 2009.
+[29] Policy Search via the Signed Derivative , J. Zico Kolter and Andrew Y. Ng. In
+Proceedings of Robotics: Science and Systems (RSS) , 2009
+[30] Exponential Family Sparse Coding with Application to Self-taught Learning,
+Honglak Lee, Rajat Raina, Alex Teichman and Andrew Y. Ng. InProceedings of the Twenth-
+First International Joint Conference on Artiﬁcial Intelligence (IJCAI-09) , 2009.
+[31] High-Accuracy 3D Sensing for Mobile Manipulation: Improving Object De-
+tection and Door Opening , Morgan Quigley, Siddharth Batra, Stephen Gould, Ellen
+Klingbeil, Quoc Le, Ashley Wellman and Andrew Y. Ng. In Proceedings of the Interna-
+tional Conference on Robotics and Automation (ICRA) , 2009.
+[32] Stereo Vision and Terrain Modeling for Quadruped Robots , J. Zico Kolter,
+Youngjun Kim and Andrew Y. Ng. In Proceedings of the International Conference on
+Robotics and Automation (ICRA) , 2009.
+[33] Task-Space Trajectories via Cubic Spline Optimization , J. Zico Kolter and
+Andrew Y. Ng. In Proceedings of the International Conference on Robotics and Automation
+(ICRA), 2009.
+[34] Learning Sound Location from a Single Microphone , Ashutosh Saxena and
+Andrew Y. Ng. In Proceedings of the International Conference on Robotics and Automation
+(ICRA), 2009.
+[35] Learning 3-D Object Orientation from Images, Ashutosh Saxena, Justin Driemeyer
+and Andrew Y. Ng. In Proceedings of the International Conference on Robotics and Au-
+tomation (ICRA), 2009.
+10
+[36] Reactive Grasping using Optical Proximity Sensors, Kaijen Hsiao, Paul Nangeroni,
+Manfred Huber, Ashutosh Saxena and Andrew Y. Ng. In Proceedings of the International
+Conference on Robotics and Automation (ICRA) , 2009.
+[37] Autonomous Autorotation of an RC Helicopter , Pieter Abbeel, Adam Coates,
+Timothy Hunter and Andrew Y. Ng. In the 11th International Symposium on Experimental
+Robotics (ISER), 2008.
+[38] Space-indexed Dynamic Programming: Learning to Follow Trajectories , J.
+Zico Kolter, Adam Coates, Andrew Y. Ng, Yi Gu, and Charles DuHadway. In Proceedings
+of the Twenty-ﬁfth International Conference on Machine Learning , 2008.
+[39] Learning for Control from Multiple Demonstrations , Adam Coates, Pieter
+Abbeel and Andrew Y. Ng. In Proceedings of the Twenty-ﬁfth International Conference on
+Machine Learning, 2008. (Best paper award: Best application paper.)
+[40] Apprenticeship Learning for Motion Planning with Application to Parking
+Lot Navigation, Pieter Abbeel, Dmitri Dolgov, Andrew Y. Ng and Sebastian Thrun. In
+Proceedings of the International Conference on Intelligent Robots and Systems (IROS), 2008.
+[41] A Complete Control Architecture for Quadruped Locomotion Over Rough
+Terrain, J. Zico Kolter, Mike Rodgers and Andrew Y. Ng. In Proceedings of the Interna-
+tional Conference on Robotics and Automation (ICRA) , 2008.
+[42] Make3D: Depth Perception from a Single Still Image , Ashutosh Saxena, Min
+Sun, and Andrew Y. Ng. In Proceedings of the Twenty-Third National Conference on Arti-
+ﬁcial Intelligence (AAAI, Nectar track) , 2008.
+[43] A Fast Data Collection and Augmentation Procedure for Object Recogni-
+tion, Benjamin Sapp, Ashutosh Saxena, and Andrew Y. Ng. In AAAI, 2008. In Proceedings
+of the Twenty-Third National Conference on Artiﬁcial Intelligence (AAAI) , 2008.
+[44] Learning grasp strategies with partial shape information , Ashutosh Saxena,
+Lawson Wong, and Andrew Y. Ng. In Proceedings of the Twenty-Third National Conference
+on Artiﬁcial Intelligence (AAAI) , 2008.
+[45] Cheap and Fast — But is it Good? Evaluating Non-Expert Annotations for
+Natural Language Tasks, Rion Snow Brendan O’Connor, Dan Jurafsky and Andrew Y.
+Ng. In Conference on Empirical Methods in Natural Language Processing (EMNLP) , 2008.
+[46] Hierarchical Apprenticeship Learning with Applications to Quadruped Lo-
+comotion, J. Zico Kolter, Pieter Abbeel, and Andrew Y. Ng. In Advances in Neural
+Information Processing Systems 20 (NIPS2007) , 2008.
+[47] Sparse deep belief net model for visual area V2 , Honglak Lee, Ekanadham
+Chaitanya, and Andrew Y. Ng. In Advances in Neural Information Processing Systems 20
+(NIPS2007), 2008.
+11
+[48] Eﬃcient multiple hyperparameter learning for log-linear models, Chuong Do,
+Chuan-Sheng Foo, Andrew Y. Ng. In Advances in Neural Information Processing Systems
+20 (NIPS2007), 2008.
+[49] A Vision-based System for Grasping Novel Objects in Cluttered Environ-
+ments, Ashutosh Saxena, Lawson Wong, Morgan Quigley and Andrew Y. Ng. In Proceed-
+ings of the International Symposium on Robotics Research (ISRR) , 2007.
+[50] Learning omnidirectional path following using dimensionality reduction , J.
+Zico Kolter and Andrew Y. Ng. In Proceedings of Robotics: Science and Systems, 2007.
+[51] Shift-Invariant Sparse Coding for Audio Classiﬁcation , Roger Grosse, Rajat
+Raina, Helen Kwong and Andrew Y. Ng. In Proceedings of the Twenty-third Conference on
+Uncertainty in Artiﬁcial Intelligence , 2007.
+[52] Learning to merge word senses , Rion Snow, Sushant Prakash, Dan Jurafsky
+and Andrew Y. Ng. In Conference on Empirical Methods in Natural Language Processing
+(EMNLP), 2007.
+[53] Self-taught learning: Transfer learning from unlabeled data , Rajat Raina,
+Alexis Battle, Honglak Lee, Benjamin Packer and Andrew Y. Ng. In Proceedings of the
+Twenty-fourth International Conference on Machine Learning , 2007.
+[54] Portable GNSS Baseband Logging , Morgan Quigley, Pieter Abbeel, Dave S. De
+Lorenzo, Yi Gu, Sara Bolouki, Dennis Akos, and Andrew Y. Ng. In Institute of Navigation
+(ION) GNSS Conference, 2007.
+[55] Peripheral-Foveal Vision for Real-time Object Recognition and Tracking in
+Video. Stephen Gould, Joakim Arfvidsson, Adrian Kaehler, Benjamin Sapp, Marius Meiss-
+ner, Gary Bradski, Paul Baumstarck, Sukwon Chung and Andrew Y. Ng. In Proceedings of
+the Twentieth International Joint Conference on Artiﬁcial Intelligence (IJCAI-07) , 2007.
+[56] Probabilistic Mobile Manipulation in Dynamic Environments, with Appli-
+cation to Opening Doors . Anya Petrovskaya and Andrew Y. Ng. In Proceedings of the
+Twentieth International Joint Conference on Artiﬁcial Intelligence (IJCAI-07) , 2007.
+[57] A Factor Graph Model for Software Bug Finding . Ted Kremenek, Andrew Y.
+Ng and Dawson Engler. In Proceedings of the Twentieth International Joint Conference on
+Artiﬁcial Intelligence (IJCAI-07) , 2007.
+[58] Depth Estimation using Monocular and Stereo Cues . Ashutosh Saxena, Jamie
+Schulte and Andrew Y. Ng. In Proceedings of the Twentieth International Joint Conference
+on Artiﬁcial Intelligence (IJCAI-07) , 2007.
+[59] Robotic Grasping of Novel Objects . Ashutosh Saxena, Justin Driemeyer, Justin
+Kearns, Andrew Y. Ng. In Advances in Neural Information Processing Systems 19 (NIPS2006),
+2007.
+12
+[60] An Application of Reinforcement Learning to Aerobatic Helicopter Flight .
+Pieter Abbeel, Adam Coates, Morgan Quigley and Andrew Y. Ng. In Advances in Neural
+Information Processing Systems 19 (NIPS2006) , 2007.
+[61] Eﬃcient sparse coding algorithms, end-stopping and nCRF surround sup-
+pression, Honglak Lee, Alexis Battle, Raina Rajat and Andrew Y. Ng. In Advances in
+Neural Information Processing Systems 19 (NIPS2006) , 2007.
+[62] Map-Reduce for Machine Learning on Multicore . Cheng-Tao Chu, Sang Kyun
+Kim, Yi-An Lin, YuanYuan Yu, Gary Bradski, Andrew Y. Ng and Kunle Olukotum. In
+Advances in Neural Information Processing Systems 19 (NIPS2006) , 2007.
+[63] Semantic taxonomy induction from heterogeneous evidence. Rion Snow, Dan
+Jurafsky and Andrew Y. Ng. In Proceedings of the 44th Annual Meeting of the Association
+for Computational Linguistics (ACL) , 2006. (Best paper award.)
+[64] Learning to grasp novel objects using vision. Ashutosh Saxena, Justin Driemeyer,
+Justin Kearns, Chioma Osondu, and Andrew Y. Ng. In International Symposium on Ex-
+perimental Robotics (ISER), 2006.
+[65] Have we met? MDP based speaker ID for robot dialogue . Filip Krsmanovic,
+Curtis Spencer, Daniel Jurafsky and Andrew Y. Ng. In Proceedings of the Ninth Interna-
+tional Conference on Spoken Language Processing (InterSpeech–ICSLP), 2006.
+[66] Using inaccurate models in reinforcement learning . Pieter Abbeel, Morgan
+Quigley and Andrew Y. Ng. In Proceedings of the Twenty-second International Conference
+on Machine Learning, 2006.
+[67] Transfer learning by constructing informative priors . Rajat Raina, Andrew Y.
+Ng and Daphne Koller. In Proceedings of the Twenty-second International Conference on
+Machine Learning, 2006.
+[68] From uncertainty to belief: Inferring the speciﬁcation within . Ted Kremenek,
+Paul Twohey, Godmar Back, Andrew Y. Ng and Dawson Engler. In Proceedings of the 7th
+USENIX Symposium on Operating Systems Design and Implementation (OSDI) , 2006.
+[69] Solving the problem of cascading errors: Approximate Bayesian inference
+for linguistic annotation pipelines . Jenny Finkel, Chris Manning and Andrew Y. Ng.
+In Conference on Empirical Methods in Natural Language Processing (EMNLP) , 2006.
+[70] Quadruped robot obstacle negotiation via reinforcement learning . Honglak
+Lee, Yirong Shen, Chih-Han Yu, Gurjeet Singh, and Andrew Y. Ng. In International
+Conference on Robotics and Automation (ICRA) , 2006.
+[71] Bayesian estimation for autonomous object manipulation based on tactile
+sensors. Anya Petrovskaya, Oussama Khatib, Sebastian Thrun, and Andrew Y. Ng. In
+International Conference on Robotics and Automation (ICRA) , 2006.
+13
+[72] Eﬃcient L1 Regularized Logistic Regression . Su-In Lee, Honglak Lee, Pieter
+Abbeel, and Andrew Y. Ng. In Proceedings of the Twenty-First National Conference on
+Artiﬁcial Intelligence (AAAI) , 2006.
+[73] A dynamic Bayesian network model for autonomous 3d reconstruction from
+a single indoor image . Erick Delage, Honglak Lee and Andrew Y. Ng. In IEEE Confer-
+ence on Computer Vision and Pattern Recognition (CVPR), 2006.
+[74] groupTime: Preference-Based Group Scheduling . Mike Brzozowski, Kendra
+Carattini, Scott R. Klemmer, Patrick Mihelich, Jiang Hu, Andrew Y. Ng. In CHI 2006:
+ACM Conference on Human Factors in Computing Systems , 2006.
+[75] Contextual search and name disambiguation in email using graphs . Einat
+Minkov, William Cohen and Andrew Y. Ng. In Proceedings of the Twenty-ninth Annual In-
+ternational ACM SIGIR Conference on Research and Development in Information Retrieval,
+2006.
+[76] Learning Depth from Single Monocular Images. Ashutosh Saxena, Sung Chung,
+and Andrew Y. Ng. In Advances in Neural Information Processing Systems 18 (NIPS2005),
+2006.
+[77] Learning vehicular dynamics, with application to modeling helicopters .
+Pieter Abbeel, Varun Ganapathi and Andrew Y. Ng. In Advances in Neural Information
+Processing Systems 18 (NIPS2005) , 2006.
+[78] On Local Rewards and the Scalability of Distributed Reinforcement Learn-
+ing. J. Andrew Bagnell and Andrew Y. Ng. In Advances in Neural Information Processing
+Systems 18 (NIPS2005) , 2006.
+[79] Meta-learning for text classiﬁcation. Chuong Do and Andrew Y. Ng. In Advances
+in Neural Information Processing Systems 18 (NIPS2005) , 2006.
+[80] Fast Gaussian Process Regression using KD-trees . Yirong Shen, Andrew
+Y. Ng and Matthias Seeger. In Advances in Neural Information Processing Systems 18
+(NIPS2005), 2006.
+[81] Spam deobfuscation using a hidden Markov model . Honglak Lee and Andrew
+Y. Ng. In Proceedings of the second Conference on Email and Anti-Spam (CEAS) , 2005.
+(Best student paper award.)
+[82] Automatic single-image 3d reconstructions of indoor Manhattan world
+scenes, Erick Delage, Honglak Lee and Andrew Y. Ng. In Proceedings of the International
+Symposium on Robotics Research (ISRR), 2005.
+[83] Robust Textual Inference via Graph Matching . Aria Haghighi, Andrew Y.
+Ng and Christopher Manning. In Proceedings of the Human Language Technology Confer-
+ence/Empirical Methods in Natural Language Processing (HLT-EMNLP) , 2005.
+14
+[84] Robust textual inference via learning and abductive reasoning . Rajat Raina,
+Andrew Y. Ng and Christopher Manning. In Proceedings of the Twentieth National Con-
+ference on Artiﬁcial Intelligence (AAAI-05) , 2005.
+[85] High-speed obstacle avoidance using monocular vision and reinforcement
+learning. Jeﬀ Michels, Ashutosh Saxena and Andrew Y. Ng. In Proceedings of the Twenty-
+ﬁrst International Conference on Machine Learning , 2005.
+[86] Exploration and apprenticeship learning in reinforcement learning . Pieter
+Abbeel and Andrew Y. Ng. In Proceedings of the Twenty-ﬁrst International Conference on
+Machine Learning, 2005.
+[87] Learning factor graphs in polynomial time & sample complexity . Pieter
+Abbeel, Daphne Koller and Andrew Y. Ng. In Proceedings of the Twenty-ﬁrst Conference
+on Uncertainty in Artiﬁcial Intelligence (UAI) , 2005.
+[88] Discriminative training of Kalman ﬁlters. Pieter Abbeel, Adam Coates, Michael
+Montemerlo, Andrew Y. Ng and Sebastian Thrun. In Proceedings of Robotics: Science and
+Systems, 2005.
+[89] Autonomous Helicopter Tracking and Localization Using a Self-Calibrating
+Camera Array. Masa Matsuoka, Surya Singh, Alan Chen, Adam Coates, Andrew Y. Ng
+and Sebastian Thrun. In Proceedings of the Fifth International Conference on Field Service
+Robotics, 2005.
+[90] Discriminative Learning of Markov Random Fields for Segmentation of 3D
+Range Data. Drago Anguelov, Ben Taskar, Vasco Chatalbashev, Daphne Koller, Dinkar
+Gupta, Geremy Heitz and Andrew Y. Ng. In Proceedings of the Conference on Computer
+Vision and Pattern Recognition (CVPR) , 2005.
+[91] Stable adaptive control with online learning . Andrew Y. Ng and H. Jin Kim.
+In Advances in Neural Information Processing Systems 17 (NIPS2004) , 2005
+[92] Learning ﬁrst-order Markov models for control . Pieter Abbeel and Andrew Y.
+Ng. In Advances in Neural Information Processing Systems 17 (NIPS2004) , 2005.
+[93] Learning syntactic patterns for automatic hypernym discovery . Rion Snow,
+Daniel Jurafsky and Andrew Y. Ng. In Advances in Neural Information Processing Systems
+17 (NIPS2004), 2005.
+[94] Online bounds for Bayesian algorithms . Sham Kakade and Andrew Y. Ng. In
+Advances in Neural Information Processing Systems 17 (NIPS2004) , 2005.
+[95] Inverted autonomous helicopter ﬂight via reinforcement learning . Andrew
+Y. Ng, Adam Coates, Mark Diel, Varun Ganapathi, Jamie Schulte, Ben Tse, Eric Berger
+and Eric Liang. In International Symposium on Experimental Robotics , 2004.
+15
+[96] Apprenticeship learning via inverse reinforcement learning. Pieter Abbeel and
+Andrew Y. Ng. In Proceedings of the Twenty-ﬁrst International Conference on Machine
+Learning, 2004.
+[97] Feature selection, L1 vs. L2 regularization, and rotational invariance. Andrew
+Y. Ng. In Proceedings of the Twenty-ﬁrst International Conference on Machine Learning ,
+2004.
+[98] Learning random walk models for inducing word dependency probabilities .
+Kristina Toutanova, Christopher Manning and Andrew Y. Ng. InProceedings of the Twenty-
+ﬁrst International Conference on Machine Learning , 2004.
+[99] Online learning of pseudo-metrics. Shai Shalev-Shwartz, Yoram Singer and Andrew
+Y. Ng. In Proceedings of the Twenty-ﬁrst International Conference on Machine Learning ,
+2004.
+[100] Autonomous helicopter ﬂight via reinforcement learning . Andrew Y. Ng, H.
+Jin Kim, Michael Jordan and Shankar Sastry. InAdvances in Neural Information Processing
+Systems 16 (NIPS2003) , 2004.
+[101] Policy search by dynamic programming . J. Andrew Bagnell, Sham Kakade,
+Andrew Y. Ng and Jeﬀ Schneider. In Advances in Neural Information Processing Systems
+16 (NIPS2003), 2004.
+[102] Classiﬁcation with Hybrid Generative/Discriminative Models. Rajat Raina,
+Yirong Shen, Andrew Y. Ng and Andrew McCallum. In Advances in Neural Information
+Processing Systems 16 (NIPS2003) , 2004.
+[103] Distance metric learning, with application to clustering with side-information.
+Eric Xing, Andrew Y. Ng, Michael Jordan and Stuart Russell. In Advances in Neural In-
+formation Processing Systems 15 (NIPS2002) , 2003.
+[104] On discriminative vs. generative classiﬁers: A comparison of logistic re-
+gression and naive Bayes . Andrew Y. Ng and Michael Jordan. In Advances in Neural
+Information Processing Systems 14 (NIPS2001) , 2002.
+[105] Latent dirichlet allocation . David Blei, Andrew Y. Ng and Michael Jordan. In
+Advances in Neural Information Processing Systems 14 (NIPS2001) , 2002.
+[106] On spectral clustering: Analysis and an algorithm. Andrew Y. Ng, Michael Jor-
+dan and Yair Weiss. In Advances in Neural Information Processing Systems 14 (NIPS2001),
+2002
+[107] Link analysis, eigenvectors, and stability . Andrew Y. Ng, Alice X. Zheng and
+Michael Jordan. In Proceedings of the Seventeenth International Joint Conference on Arti-
+ﬁcial Intelligence (IJCAI-01) , 2001.
+16
+[108] Stable algorithms for link analysis . Andrew Y. Ng, Alice X. Zheng and Michael
+Jordan. In Proceedings of the Twenty-fourth Annual International ACM SIGIR Conference
+on Research and Development in Information Retrieval , 2001.
+[109] Convergence rates of the Voting Gibbs classiﬁer, with application to
+Bayesian feature selection . Andrew Y. Ng, & Michael Jordan. In Proceedings of the
+Eighteenth International Conference on Machine Learning , 2001.
+[110] PEGASUS: A policy search method for large MDPs and POMDPs. Andrew
+Y. Ng, and Michael Jordan, In Uncertainty in Artiﬁcial Intelligence, Proceedings of the
+Sixteenth Conference, 2000.
+[111] Algorithms for Inverse Reinforcement learning . Andrew Y. Ng, and Stuart
+Russell. In Proceedings of the Seventeenth International Conference on Machine Learning .
+Morgan Kauﬀman, 2000.
+[112] Approximate inference algorithms for two-layer Bayesian networks. Andrew
+Y. Ng, and Michael Jordan. In Advances in Neural Information Processing Systems 12
+(NIPS1999), 2000.
+[113] Policy search via density estimation . Andrew Y. Ng, Ronald Parr and Daphne
+Koller. In Advances in Neural Information Processing Systems 12 (NIPS1999) , 2000.
+[114] Approximate planning in large POMDPs via reusable trajectories . Michael
+Kearns, Yishay Mansour and Andrew Y. Ng. In Advances in Neural Information Processing
+Systems 12 (NIPS1999) , 2000
+[115] Policy invariance under reward transformations: Theory and application
+to reward shaping. Andrew Y. Ng, Daishi Harada and Stuart Russell. In Proceedings of
+the Sixteenth International Conference on Machine Learning . Morgan Kauﬀman, 1999.
+[116] A sparse sampling algorithm for near-optimal planning in large Markov
+decision processes. Michael Kearns, Yishay Mansour and Andrew Y. Ng. In Proceedings
+of the Sixteenth International Joint Conference on Artiﬁcial Intelligence (IJCAI-99) , 1999.
+[117] On Feature Selection: Learning with exponentially many irrelevant fea-
+tures as training examples. Andrew Y. Ng. In Proceedings of the Fifteenth International
+Conference on Machine Learning. Morgan Kauﬀman, 1998.
+[118] Applying online-search to reinforcement learning . Scott Davies, Andrew Y.
+Ng and Andrew Moore. In Proceedings of the Fifteenth National Conference on Artiﬁcial
+Intelligence (AAAI-98). AAAI Press, 1998.
+[119] Improving text classiﬁcation by shrinkage in a hierarchy of classes . Andrew
+McCallum, Ronald Rosenfeld, Tom Mitchell and Andrew Y. Ng,. In Proceedings of the
+Fifteenth International Conference on Machine Learning . Morgan Kauﬀman, 1998.
+17
+[120] Preventing “overﬁtting” of cross-validation data. Andrew Y. Ng. In Proceedings
+of the Fourteenth International Conference on Machine Learning . Morgan Kauﬀman, 1997.
+[121] An Information-Theoretic Analysis of Hard and Soft Assignment Methods
+for Clustering. Michael Kearns, Yishay Mansour and Andrew Y. Ng. In Proceedings of
+the Thirteenth Annual Conference on Uncertainty in Artiﬁcial Intelligence , 1997.
+[122] An experimental and theoretical comparison of model selection methods .
+Michael Kearns, Yishay Mansour, Andrew Y. Ng and Dana Ron. In Proceedings of the
+Eighth Annual ACM Conference on Computational Learning Theory , 1995.
+Workshop and other papers
+[123] Apprenticeship learning for helicopter control . Adam Coates, Pieter Abbeel
+and Andrew Y. Ng. In Communications of the ACM , Volume 52, 2009.
+[124] ROS: an open-source Robot Operating System, Morgan Quigley, Brian Gerkey,
+Ken Conley, Josh Faust, Tully Foote, Jeremy Leibs, Eric Berger, Rob Wheeler, and Andrew
+Y. Ng. In Proceedings of the ICRA Open-Source Software workshop , 2009.
+[125] Learning to Open New Doors , Ellen Klingbeil, Ashutosh Saxena, Andrew Y. Ng.
+In Robotics Science and Systems (RSS) workshop on Robot Manipulation , 2008.
+[126] STAIR: The STanford Artiﬁcial Intelligence Robot project . Andrew Y. Ng,
+Stephen Gould, Morgan Quigley, Ashutosh Saxena and Eric Berger. In Snowbird Learning
+Workshop (extended abstract), 2008.
+[127] Integrating visual and range data for robotic object detection , Stephen
+Gould, Paul Baumstarck, Morgan Quigley, Andrew Y. Ng and Daphne Koller. In ECCV
+workshop on Multi-camera and Multi-modal Sensor Fusion Algorithms and Applications
+(M2SFA2), 2008.
+[128] Exponential family sparse coding with application to self-taught learning
+with text documents Honglak Lee, Rajat Raina, Alex Teichman and Andrew Y. Ng.
+In Proceedings of the ICML 2008 workshop on Prior Knowledge for Text and Language
+(PKTL), 2008.
+[129] Unsupervised discovery of structure for classiﬁcation Rajat Raina, Alexis
+Battle, Honglak Lee, Benjamin Packer and Andrew Y. Ng. In Proceedings of NIPS2006
+workshop on Learning when test and training inputs have diﬀerent distributions , 2006.
+[130] Learning 3-D Scene Structure from a Single Still Image , Ashutosh Saxena,
+Min Sun, and Andrew Y. Ng. In ICCV workshop on 3D Representation for Recognition
+(3dRR), 2007. (Best paper award.)
+18
+[131] 3-D Reconstruction from Sparse Views using Monocular Vision . Ashutosh
+Saxena, Min Sun, and Andrew Y. Ng. In ICCV workshop on Virtual Representations and
+Modeling of Large-scale environments (VRML) , 2007.
+[132] Learning to grasp novel objects using vision. Ashutosh Saxena, Justin Driemeyer,
+Justin Kearns, Chioma Osondu, and Andrew Y. Ng. In Robotics: Science and Systems
+Workshop on Manipulation for Human Environments , 2006.
+[133] Transfer learning by constructing informative priors. Rajat Raina, Andrew Y.
+Ng and Daphne Koller. In NIPS 2005 Workshop on Inductive Transfer , 2005.
+Non-refereed Papers
+[134] Reinforcement learning and apprenticeship learning for robotic control
+(invited paper). Andrew Y. Ng. In Proceedings of Algorithmic Learning Theory (ALT) ,
+2006.
+[135] Data-intensive question answering. Eric Brill, Jimmy Lin, Michelle Banko, Sue
+Dumais and Andrew Y. Ng. In Proceedings of TREC-10, 2001.
+Courses taught
+(Enrollment given in parentheses at end of each line.)
+• Aut 09-10. CS229: Machine Learning (Enrollment: 277 students)
+• Aut 09-10. CS221: AI: Principles & Techniques (159)
+• Win 09-10. CS294A/CS294W: Deep Learning (Research project in AI) (26)
+• Aut 08-09. CS229: Machine Learning (221)
+• Win 08-09. CS221: AI: Princples & Techniques (138)
+• Win 08-09. CS294A/CS294W: The STAIR Project (Research project in AI) (18)
+• Win 07-08. CS294A/CS294W: The STAIR Project (Research project in AI) (11)
+• Aut 07-08. CS221: AI: Principles & Techniques (92)
+• Aut 07-08. CS229: Machine Learning (148)
+• Spr 06-07. CS294A/CS294W: The STAIR Project (Research project in AI) (18)
+• Aut 06-07. CS221: AI: Principles & Techniques (88)
+• Aut 06-07. CS229: Machine Learning (137)
+• Win 05-06. CS294B/CS294W: The STAIR Project (Research project in AI) (18)
+• Aut 05-06. CS221: AI: Principles & Techniques (with Daphne Koller) (116)
+• Aut 05-06. CS229: Machine Learning (156)
+• Aut 04-05. CS221: AI: Principles & Techniques (119)
+19
+• Aut 04-05. CS229: Machine Learning (89)
+• Spr 03-04. CS23N: Robotics and Machine Learning (with Geoﬀrey Gordon) (16)
+• Win 03-04. CS229: Machine Learning (70)
+• Win 02-03. CS229: Machine Learning (68)
+• Aut 02-03. CS221: AI: Principles & Techniques (103)
+Also started Stanford Engineering Everywhere (http://see.stanford.edu) project, which made
+about a dozen complete Stanford classes freely accessible on the web (including the machine
+learning class CS229).
+Service
+• Co-organizer, NIPS 2011 workshop on Deep Learning and Unsupervised Feature Learn-
+ing.
+• Co-organizer, NIPS 2011 workshop on Challenges in Learning Hierarchical Models:
+Transfer Learning and Optimization
+• Co-organizer, NIPS 2010 workshop on Deep Learning and Unsupervised Feature Learn-
+ing.
+• NSF CISE (Computer and Information Science and Engineering) Advisory Committee,
+2009-2011.
+• Program Co-Chair, Uncertainty in Artiﬁcial Intelligence (UAI) conference, 2009.
+• Guest editor, Autonomous Robots: Special Issue on Robot Learning, 2009.
+• Associate Editor, Journal of Artiﬁcial Intelligence Research (JAIR), 2007-present.
+• Senior Program Committee, Uncertainty in Artiﬁcial Intelligence (UAI) 2007, 2008.
+• Editorial Board, Journal of Artiﬁcial Intelligence Research (JAIR), 2006-2007.
+• Senior Program Committee/Area Chair, International Conference on Machine learn-
+ing, 2004, 2007.
+• Associate Editor, IEEE Robotics and Automation Society Conference Editorial Board
+(ICRA), 2006.
+• Program Co-Chair, Conference on Email and Anti-Spam (CEAS), 2004.
+• CEAS (Conference on Email and Anti-Spam) Steering Board, 2004-present.
+• Program committee member (Area Chair), Neural Information Processing Systems,
+2002, 2005.
+• Co-chair, NIPS 2005 workshop on “Towards Human-level AI?”
+• Area Chair, Robotics: Science and Systems, 2005.
+• Also reviewer for: Journal of Machine Learning Research (2002-2006, 2008); Uncer-
+tainty in Artiﬁcial Intelligence (2000, 2001, 2004, 2008); Neural Information Pro-
+cessing Systems (2000-2008); International Joint Conference on Artiﬁcial Intelligence
+20
+(2001, 2003, 2005, 2007); IEEE Conference on Computer Vision and Pattern Recog-
+nition (CVPR) (2007); International Conference on Computer Vision (ICCV) (2007)
+Robotics: Science & Systems (2007); Journal of Artiﬁcial Intelligence Research (1999-
+2002, 2006); International Conference on Robotics and Automation (2006); Journal of
+the ACM (2006); Neural Computation (2000, 2003, 2005, 2006); International Journal
+of Computer Vision (2006). International Journal of Robotics Research (2006). Inter-
+national Conference on Machine Learning (1999, 2003-2006); Journal of Field Robotics
+(2005). ACM SIGIR (information retrieval) conference, 2004; ACM Transactions on
+Internet Technology, (2003); Human Language Technology, (2003); Artiﬁcial Intelli-
+gence Communications (2001), International Joint Conference on Neural Networks,
+2000; Machine Learning Journal, (1998, 1999, 2000).
+21
