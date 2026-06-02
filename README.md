@@ -22,6 +22,7 @@ memory/              Short-term and long-term memory
 persona/             Andrew Ng profile and prompt builder
 data/raw/            Source text files for ingestion
 data/processed/      Generated chunk JSONL
+vectorstore/         Local retrieval artifacts
 docs/                Architecture and design docs
 conversations/       Ten sample conversations
 tests/               Unit tests
@@ -29,39 +30,7 @@ tests/               Unit tests
 
 ## Setup With uv
 
-This repository includes a `pyproject.toml` and `uv.lock`. In this workspace, a local uv executable was installed at `.uv-local/bin/uv.exe` and the virtual environment was created at `.venv/`.
-
-Create or refresh the environment:
-
-```bash
-.uv-local/bin/uv.exe --no-cache sync --all-groups
-```
-
-Create an environment file:
-
-```bash
-cp .env.example .env
-```
-
-Add your Gemini key:
-
-```bash
-GEMINI_API_KEY=...
-```
-
-## Run
-
-Ingest the starter corpus:
-
-```bash
-.uv-local/bin/uv.exe --no-cache run python -m rag.ingest
-```
-
-Start the demo:
-
-```bash
-.uv-local/bin/uv.exe --no-cache run streamlit run app/main.py
-```
+This repository includes a `pyproject.toml` and `uv.lock`. 
 
 ## Corpus Expansion
 
@@ -81,3 +50,4 @@ Recommended sources include DeepLearning.AI articles, Stanford CS229 notes, publ
 - Persona is configured in YAML so it can be audited and refined without changing code.
 
 See [docs/approach.md](docs/approach.md) and [docs/architecture.md](docs/architecture.md).
+
