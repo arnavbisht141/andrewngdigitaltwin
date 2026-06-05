@@ -1,6 +1,29 @@
+# Environment & report files
 .env
 Technical-Report.docx
 Technical-Report.pdf
 .methodology
-.pytest_cache
-.pytest_tmp
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# Python compiled bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# SQLite databases (local caches and runtime memory)
+*.sqlite
+*.db
+
+# Test caches and temp files
+.pytest_cache/
+.pytest_tmp/
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
