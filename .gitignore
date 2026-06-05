@@ -1,1 +1,6 @@
 .env
+Technical-Report.docx
+Technical-Report.pdf
+.methodology
+.pytest_cache
+.pytest_tmp
