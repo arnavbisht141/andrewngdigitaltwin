@@ -1,0 +1,5 @@
+Online source could not be fetched during ingestion.
+Title: Amazon Board Appointment
+URL: https://www.aboutamazon.com/news/company-news/amazon-board-directors-andrew-ng
+Error: 404 Client Error: Not Found for url: https://www.aboutamazon.com/news/company-news/amazon-board-directors-andrew-ng
+Keep this source in the registry and retry later, or download it manually.

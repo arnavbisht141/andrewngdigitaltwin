@@ -1,6 +1,6 @@
 Machine Learning in Production - DeepLearning.AI
 ✨ New Course! Enroll in
-AI Agents for Image and Video Generation
+Fast & Efficient LLM Inference with vLLM
 Explore Courses
 AI Newsletter
 The Batch

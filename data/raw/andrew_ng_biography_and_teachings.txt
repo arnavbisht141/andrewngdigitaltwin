@@ -1,0 +1,55 @@
+Andrew Ng Biography, Career, and Teachings Corpus
+
+Biographical Information and Early Life
+Andrew Yan-Tak Ng was born on April 18, 1976, in London, England, United Kingdom. His Chinese name is 吳恩達. As of the year 2026, he is 50 years old. He is of average height, which is publicly estimated to be around 5 feet 8 inches (or approximately 1.73 meters), though his exact height is not formally documented. 
+Although born in the UK, Andrew spent his childhood and early youth in Hong Kong and Singapore. In Singapore, he attended the Raffles Institution, from which he graduated secondary school in 1992. His parents are of Chinese descent. 
+Andrew married Carol E. Reiley in 2014. Carol is a well-known roboticist, entrepreneur, and co-founder of Drive.ai. The couple has two children, including a daughter named Nova Ng who was born in 2019.
+
+Academic Qualifications and Educational Background
+Andrew Ng has an outstanding educational pedigree from several of the world's leading academic institutions.
+- Secondary School: Raffles Institution, Singapore (graduated in 1992).
+- Undergraduate Education: Carnegie Mellon University (CMU) in Pittsburgh, Pennsylvania. He graduated top of his class in 1997 with a Bachelor of Science (B.S.) in Computer Science, Statistics, and Economics. He was also elected to the prestigious Phi Beta Kappa honor society.
+- Master's Education: Massachusetts Institute of Technology (MIT) in Cambridge, Massachusetts. He completed his Master of Science (M.S.) in Electrical Engineering and Computer Science in 1998.
+- Doctoral Education: University of California, Berkeley. He completed his Ph.D. in Computer Science in 2003. His doctoral advisor was the legendary AI researcher Michael I. Jordan. Andrew's doctoral thesis was focused on reinforcement learning, policy search, and autonomous control systems.
+
+Stanford University Academic Career
+Andrew Ng joined the Stanford University faculty in 2002. He currently holds the title of Adjunct Professor of Computer Science. He formerly served as an Associate Professor and the Director of the Stanford Artificial Intelligence Laboratory (SAIL). 
+At Stanford, Andrew taught the highly popular CS229 (Machine Learning) course, which focused on supervised learning, unsupervised learning, generalization, and optimization algorithms. In 2011, he put his Stanford machine learning lectures online for free. The course attracted over 100,000 students worldwide in its first offering, which served as a major catalyst for the creation of massive open online courses (MOOCs) and led directly to the founding of Coursera.
+
+Founding and Leading Google Brain
+Between 2011 and 2012, Andrew Ng founded and led the Google Brain project, a research group within Google dedicated to large-scale artificial neural networks and deep learning. 
+Under his leadership, Google Brain developed distributed deep learning systems that trained on thousands of CPUs and GPUs. This project culminated in the famous 2012 "Google Cat" paper, which detailed a large-scale unsupervised neural network with 1 billion parameters. After training on 10 million unlabeled YouTube video frames over three days, the network successfully learned to detect high-level concepts, such as cats, human faces, and body parts, without any manual labeling or human supervision. This work proved the power of scaling deep learning networks.
+
+Baidu VP and Chief Scientist
+In May 2014, Andrew Ng joined Baidu, the Chinese search giant, as a Vice President and Chief Scientist. He was hired to lead Baidu's global AI Group, which had research labs in Silicon Valley and Beijing.
+During his tenure at Baidu (2014-2017), he grew the AI group to over 1,300 researchers, engineers, and scientists. He oversaw critical advancements in speech recognition (the Deep Speech system), machine translation, computer vision, natural language processing, and autonomous driving. Andrew resigned from Baidu in March 2017 to launch independent startups.
+
+Coursera and Online Education Leadership
+Andrew Ng co-founded Coursera in 2012 alongside fellow Stanford professor Daphne Koller. Coursera was established with the mission to democratize education by offering university-level courses online to anyone, anywhere, for free or low cost.
+Under Andrew's leadership as Chairman, Coursera partnered with top universities around the world and grew into the world's leading MOOC platform. Andrew has personally taught millions of students online through his signature courses, including the Machine Learning Specialization and Deep Learning Specialization.
+
+DeepLearning.AI, Landing AI, and AI Fund
+Following his departure from Baidu in 2017, Andrew Ng founded three interconnected organizations to drive AI adoption, education, and investment.
+1. DeepLearning.AI: An AI education company founded in 2017. It creates high-quality online courses and curriculum to help students and professionals gain practical skills in deep learning, natural language processing, computer vision, and AI engineering.
+2. Landing AI: An industrial AI company founded in 2017, where Andrew serves as CEO. Landing AI focuses on providing computer vision and data-centric AI software platforms (such as LandingLens) for manufacturing, life sciences, agriculture, and other enterprises.
+3. AI Fund: A venture studio founded in 2017 with over $175 million in backing. As Managing General Partner, Andrew works with entrepreneurs to build, fund, and launch AI-first startup companies from the ground up.
+
+Amazon Board of Directors
+In April 2024, Andrew Ng was appointed to the Board of Directors of Amazon.com, Inc. His appointment was announced as a move to bring deep expertise in generative AI, computer vision, and machine learning to Amazon's leadership, helping steer its cloud (AWS) and retail AI initiatives.
+
+Achievements, Recognitions, and Awards
+Andrew Ng's contributions to artificial intelligence and online education have earned him numerous prestigious recognitions:
+- Time 100: Named to Time magazine's list of the 100 most influential people in the world in 2013.
+- Time 100 AI: Named to Time's inaugural list of the 100 most influential people in AI in 2023.
+- Computers and Thought Award: Awarded the IJCAI Computers and Thought Award in 2009 for his contributions to robotics and machine learning.
+- Sloan Fellowship: Received the Alfred P. Sloan Research Fellowship in 2007.
+- STAIR Project: Created the Stanford Artificial Intelligence Robot (STAIR) project, which successfully co-developed the early foundation of the Robot Operating System (ROS).
+- GPU Deep Learning Pioneers: Andrew's research team at Stanford was among the first in 2008-2009 to advocate for training deep neural networks using GPUs (Graphics Processing Units), a technique that eventually triggered the modern deep learning revolution.
+
+Core Teachings and Machine Learning Philosophies
+Throughout his career, Andrew has advocated for specific technical and product philosophies:
+1. "AI is the new electricity." AI is a general-purpose technology that will transform every major industry (healthcare, manufacturing, finance, logistics, agriculture, education) in the same way electricity did in the early 20th century.
+2. Data-Centric AI: Andrew has spearheaded the data-centric AI movement. Instead of keeping data fixed and tuning model architectures/parameters (model-centric), developers should keep the model fixed and systematically improve data quality (cleaning labels, collecting targeted edge cases, ensuring consistent data labeling definitions).
+3. Iterative Development and Diagnostics: In his book "Machine Learning Yearning", Andrew describes applied machine learning as a highly iterative engineering process. The core recipe is: build a simple baseline system quickly (within a few days), establish validation metrics, evaluate, perform error analysis (manually inspecting misclassified examples), and let empirical evidence guide the next improvement.
+4. Scale-Up Principle: The success of modern deep learning is driven by scaling up: training larger neural network models on larger datasets with faster computing hardware (GPUs).
+5. Career Advice: Andrew advises aspiring AI engineers to learn core fundamentals (linear algebra, calculus, probability, core ML algorithms), implement algorithms from scratch to build intuition, work on concrete projects to build a portfolio, and focus on applying AI to solve real-world problems.

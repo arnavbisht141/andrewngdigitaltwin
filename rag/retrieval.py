@@ -130,7 +130,7 @@ class HybridRetriever:
         if BM25Okapi is not None:
             self.bm25 = BM25Okapi(self.tokens)
 
-    def search(self, query: str, top_k: int = 5, candidate_k: int = 20) -> list[RetrievalResult]:
+    def search(self, query: str, top_k: int = 5, candidate_k: int = 20, min_score: float = 0.0) -> list[RetrievalResult]:
         if not self.records:
             return []
 
@@ -159,15 +159,19 @@ class HybridRetriever:
         ]
         candidate_indices = sorted(range(len(combined)), key=lambda index: combined[index], reverse=True)[:candidate_k]
         reranked = self._rerank(query, candidate_indices, combined)
-        return [
-            RetrievalResult(
-                chunk_id=self.records[index]["chunk_id"],
-                content=self.records[index]["content"],
-                metadata=self.records[index]["metadata"],
-                score=float(score),
-            )
-            for index, score in reranked[:top_k]
-        ]
+        
+        results = []
+        for index, score in reranked[:top_k]:
+            if score >= min_score:
+                results.append(
+                    RetrievalResult(
+                        chunk_id=self.records[index]["chunk_id"],
+                        content=self.records[index]["content"],
+                        metadata=self.records[index]["metadata"],
+                        score=float(score),
+                    )
+                )
+        return results
 
     def _vector_scores(self, query: str, candidate_k: int) -> list[float]:
         try:

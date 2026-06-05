@@ -12,6 +12,7 @@ DB_PATH = ROOT / "memory" / "andrew_twin_memory.sqlite"
 
 @dataclass
 class MemoryRecord:
+    id: int
     fact: str
     kind: str
     importance: float
@@ -52,6 +53,8 @@ class LongTermMemory:
         if not fact:
             return
         with self._connect() as conn:
+            if kind in ("profession", "identity"):
+                conn.execute("DELETE FROM memories WHERE kind = ?", (kind,))
             conn.execute(
                 """
                 INSERT INTO memories(fact, kind, importance, created_at)
@@ -105,7 +108,7 @@ class LongTermMemory:
             if kind:
                 rows = conn.execute(
                     """
-                    SELECT fact, kind, importance, created_at
+                    SELECT id, fact, kind, importance, created_at
                     FROM memories
                     WHERE kind = ?
                     ORDER BY importance DESC, created_at DESC
@@ -116,14 +119,17 @@ class LongTermMemory:
             else:
                 rows = conn.execute(
                     """
-                    SELECT fact, kind, importance, created_at
+                    SELECT id, fact, kind, importance, created_at
                     FROM memories
                     ORDER BY importance DESC, created_at DESC
                     LIMIT ?
                     """,
                     (limit,),
                 ).fetchall()
-        return [MemoryRecord(fact=row[0], kind=row[1], importance=row[2], created_at=row[3]) for row in rows]
+        return [
+            MemoryRecord(id=row[0], fact=row[1], kind=row[2], importance=row[3], created_at=row[4])
+            for row in rows
+        ]
 
     def profile_summary(self) -> dict[str, str]:
         summary: dict[str, str] = {}
@@ -132,13 +138,40 @@ class LongTermMemory:
                 """
                 SELECT kind, fact
                 FROM memories
-                WHERE kind IN ('identity', 'goal', 'learning', 'interest', 'preference')
+                WHERE kind IN ('identity', 'goal', 'learning', 'interest', 'preference', 'profession')
                 ORDER BY importance DESC, created_at DESC
                 """
             ).fetchall()
         for kind, fact in rows:
             summary.setdefault(kind, fact)
         return summary
+
+    def delete_record(self, record_id: int) -> bool:
+        with self._connect() as conn:
+            cursor = conn.execute("DELETE FROM memories WHERE id = ?", (record_id,))
+            return cursor.rowcount > 0
+
+    def update_record(self, record_id: int, fact: str, kind: str, importance: float) -> bool:
+        fact = fact.strip()
+        if not fact:
+            return False
+        with self._connect() as conn:
+            cursor = conn.execute(
+                """
+                UPDATE memories
+                SET fact = ?, kind = ?, importance = ?, created_at = ?
+                WHERE id = ?
+                """,
+                (fact, kind, importance, datetime.now(timezone.utc).isoformat(), record_id),
+            )
+            return cursor.rowcount > 0
+
+    def add_manual_record(self, fact: str, kind: str, importance: float = 0.8) -> None:
+        self.add(fact=fact, importance=importance, kind=kind)
+
+    def clear_all(self) -> None:
+        with self._connect() as conn:
+            conn.execute("DELETE FROM memories")
 
     @staticmethod
     def _clean_value(value: str) -> str:

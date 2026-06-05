@@ -67,7 +67,7 @@ ONLINE_SOURCES: list[OnlineSource] = [
     OnlineSource(
         slug="machine_learning_in_production",
         url="https://learn.deeplearning.ai/courses/machine-learning-in-production/information",
-        title="Machine Learning in Production",
+        title="Machine Learning In Production",
         source_type="course_page",
         topic="ml engineering",
     ),
@@ -92,6 +92,35 @@ ONLINE_SOURCES: list[OnlineSource] = [
         title="Machine Learning Yearning",
         source_type="book_pdf",
         topic="machine learning strategy",
+    ),
+    OnlineSource(
+        slug="wikipedia_andrew_ng",
+        url="https://en.wikipedia.org/wiki/Andrew_Ng",
+        title="Andrew Ng Wikipedia Biography",
+        source_type="biography_wikipedia",
+        topic="biography and achievements",
+    ),
+    OnlineSource(
+        slug="stanford_andrew_ng_bio",
+        url="https://ai.stanford.edu/~ang/bio.html",
+        title="Andrew Ng Stanford Bio",
+        source_type="academic_bio",
+        topic="academic biography",
+    ),
+    OnlineSource(
+        slug="amazon_board_andrew_ng",
+        url="https://www.aboutamazon.com/news/company-news/amazon-board-directors-andrew-ng",
+        title="Amazon Board Appointment",
+        source_type="press_release",
+        topic="amazon board appointment",
+        year=2024,
+    ),
+    OnlineSource(
+        slug="coursera_co_founder_profile",
+        url="https://about.coursera.org/",
+        title="Coursera Co-founder Profile",
+        source_type="corporate_bio",
+        topic="educational entrepreneurship",
     ),
 ]
 

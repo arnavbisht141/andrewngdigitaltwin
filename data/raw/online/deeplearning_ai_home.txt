@@ -1,6 +1,6 @@
 DeepLearning.AI: Start or Advance Your Career in AI
 ✨ New Course! Enroll in
-AI Agents for Image and Video Generation
+Fast & Efficient LLM Inference with vLLM
 Explore Courses
 AI Newsletter
 The Batch
