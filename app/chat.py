@@ -58,6 +58,15 @@ class AndrewTwinChat:
         self.model_name = model_name or os.getenv("GEMINI_MODEL", "gemini-2.5-flash")
         raw_keys = [key.strip() for key in os.getenv("GEMINI_API_KEYS", "").split(",") if key.strip()]
         if not raw_keys:
+            idx = 1
+            while True:
+                numbered_key = os.getenv(f"GEMINI_API_KEY{idx}")
+                if numbered_key:
+                    raw_keys.append(numbered_key.strip())
+                    idx += 1
+                else:
+                    break
+        if not raw_keys:
             default_key = os.getenv("GEMINI_API_KEY")
             raw_keys = [default_key] if default_key else []
         self.gemini_api_keys = raw_keys
@@ -66,9 +75,22 @@ class AndrewTwinChat:
         self.last_gemini_request = 0.0
         self._init_cache()
 
-    def answer(self, user_text: str) -> ChatResult:
-        sources = self.retriever.search(user_text, top_k=7)
+    def answer(self, user_text: str, top_k: int = 4, min_score: float = 0.2) -> ChatResult:
+        sources = self.retriever.search(user_text, top_k=top_k, min_score=min_score)
         memories = self.long_term_memory.search(user_text, limit=5)
+        
+        # Determine target audience role from long-term profile
+        profile = self.long_term_memory.profile_summary()
+        user_role = None
+        if "profession" in profile:
+            prof_text = profile["profession"]
+            for role_keyword in ["Student", "Scientist", "Researcher", "Engineer", "Developer", "Executive", "Manager"]:
+                if role_keyword.lower() in prof_text.lower():
+                    user_role = role_keyword
+                    break
+            if not user_role:
+                user_role = prof_text
+
         local_answer = self._local_memory_ack(user_text)
         if local_answer:
             self.short_term_memory.add("user", user_text)
@@ -80,6 +102,7 @@ class AndrewTwinChat:
             conversation_history=self.short_term_memory.messages,
             retrieved_chunks=sources,
             memories=memories,
+            user_role=user_role,
         )
         answer = self._cached_generate(prompt, sources)
         self.short_term_memory.add("user", user_text)
